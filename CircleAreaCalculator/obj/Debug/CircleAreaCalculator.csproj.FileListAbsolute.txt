@@ -1,0 +1,6 @@
+c:\users\ikenna chioke\documents\visual studio 2013\Projects\CircleAreaCalculator\CircleAreaCalculator\bin\Debug\CircleAreaCalculator.exe.config
+C:\Users\Ikenna chioke\Documents\Visual Studio 2013\Projects\CircleAreaCalculator\CircleAreaCalculator\obj\Debug\CircleAreaCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Ikenna chioke\Documents\Visual Studio 2013\Projects\CircleAreaCalculator\CircleAreaCalculator\bin\Debug\CircleAreaCalculator.exe
+C:\Users\Ikenna chioke\Documents\Visual Studio 2013\Projects\CircleAreaCalculator\CircleAreaCalculator\bin\Debug\CircleAreaCalculator.pdb
+C:\Users\Ikenna chioke\Documents\Visual Studio 2013\Projects\CircleAreaCalculator\CircleAreaCalculator\obj\Debug\CircleAreaCalculator.exe
+C:\Users\Ikenna chioke\Documents\Visual Studio 2013\Projects\CircleAreaCalculator\CircleAreaCalculator\obj\Debug\CircleAreaCalculator.pdb
